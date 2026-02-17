@@ -1,0 +1,170 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "products": "Productos",
+    "about": "Acerca de",
+    "contact": "Contacto"
+  },
+  "home": {
+    "hero": {
+      "title": "Excelencia en Lavanda Orgánica",
+      "description": "Descubre nuestra colección premium de productos de lavanda orgánica. Puros, naturales y elaborados con cuidado para tu bienestar y belleza.",
+      "cta": "Explorar Nuestros Productos"
+    },
+    "featured": {
+      "title": "Productos Destacados",
+      "description": "Explora nuestros productos de lavanda orgánica más vendidos que han aportado confort y belleza a miles de clientes."
+    },
+    "features": {
+      "title": "Por Qué Elegirnos",
+      "items": [
+        {
+          "title": "100% Orgánico",
+          "description": "Todos nuestros productos son certificados orgánicos y cosechados de manera sostenible"
+        },
+        {
+          "title": "Puro y Natural",
+          "description": "Sin aditivos sintéticos ni químicos dañinos en ningún producto"
+        },
+        {
+          "title": "Calidad Garantizada",
+          "description": "Las pruebas rigurosas garantizan los más altos estándares de calidad"
+        }
+      ]
+    }
+  },
+  "shop": {
+    "header": {
+      "title": "Nuestros Productos",
+      "description": "Descubre nuestra colección completa de productos de lavanda orgánica"
+    },
+    "filter": {
+      "title": "Filtrar por Categoría",
+      "all": "Todos los Productos",
+      "essentialOils": "Aceites Esenciales",
+      "bathBody": "Baño y Cuerpo",
+      "beauty": "Belleza",
+      "teaWellness": "Té y Bienestar",
+      "driedFlowers": "Flores Secas",
+      "home": "Hogar"
+    },
+    "noProducts": "No se encontraron productos en esta categoría."
+  },
+  "about": {
+    "header": {
+      "title": "Acerca de Veronica Lamaga",
+      "description": "Nuestra historia, nuestros valores y nuestro compromiso con la calidad"
+    },
+    "story": {
+      "title": "Nuestra Historia",
+      "paragraphs": [
+        "Veronica Lamaga nació de la pasión por la lavanda orgánica y el compromiso con la calidad. Lo que comenzó como un pequeño cultivo familiar se ha convertido en una fuente confiable de productos premium de lavanda orgánica.",
+        "Creemos que la simplicidad de la naturaleza es su mayor fortaleza. Nuestra lavanda se cultiva orgánicamente, sin pesticidas sintéticos ni fertilizantes, en la soleada región mediterránea donde la lavanda prospera naturalmente.",
+        "Cada producto que creamos es un testimonio de nuestra dedicación a la pureza, la sostenibilidad y tu bienestar."
+      ]
+    },
+    "values": {
+      "title": "Nuestros Valores Fundamentales",
+      "items": [
+        {
+          "title": "Orgánico y Puro",
+          "description": "Utilizamos solo lavanda orgánica y de origen sostenible sin aditivos sintéticos"
+        },
+        {
+          "title": "La Calidad Primero",
+          "description": "Cada lote se prueba para pureza, potencia y seguridad antes de llegar a ti"
+        },
+        {
+          "title": "Sostenibilidad",
+          "description": "Cuidamos nuestro medio ambiente y usamos prácticas ecológicas en todas nuestras operaciones"
+        },
+        {
+          "title": "Enfoque Comunitario",
+          "description": "Apoyamos a las comunidades locales y prácticas de comercio justo en todo lo que hacemos"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "header": {
+      "title": "Contáctanos",
+      "description": "Nos encantaría saber de ti. Ponte en contacto si tienes preguntas sobre nuestros productos."
+    },
+    "getInTouch": {
+      "title": "Ponerse en Contacto",
+      "email": "Correo Electrónico",
+      "phone": "Teléfono",
+      "location": "Ubicación"
+    },
+    "form": {
+      "title": "Envíanos un Mensaje",
+      "name": "Nombre Completo",
+      "email": "Dirección de Correo",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "send": "Enviar Mensaje",
+      "success": "¡Gracias por tu mensaje! Nos pondremos en contacto pronto."
+    },
+    "info": {
+      "email": "info@veronica-lamaga.com",
+      "phone": "+1 (555) 123-4567",
+      "location": "Región Mediterránea"
+    }
+  },
+  "footer": {
+    "about": {
+      "title": "Acerca de Nosotros",
+      "description": "Creamos productos de lavanda pura y orgánica elaborados con amor y cuidado para tu bienestar y belleza."
+    },
+    "contact": "Contacto",
+    "legal": "Legal",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "faq": "Preguntas Frecuentes",
+    "copyright": "© {year} Veronica Lamaga. Todos los derechos reservados.",
+    "social": {
+      "instagram": "Instagram",
+      "facebook": "Facebook"
+    }
+  },
+  "faq": {
+    "header": {
+      "title": "Preguntas Frecuentes",
+      "description": "Encuentra respuestas a preguntas comunes sobre nuestros productos y servicios"
+    },
+    "items": [
+      {
+        "question": "¿Son sus productos 100% orgánicos?",
+        "answer": "Sí, todos nuestros productos de lavanda son certificados orgánicos. No utilizamos pesticidas sintéticos, fertilizantes ni aditivos. Cada producto se obtiene de nuestros campos de lavanda orgánica."
+      },
+      {
+        "question": "¿Envían a nivel internacional?",
+        "answer": "Actualmente, enviamos a regiones específicas. Contáctanos en info@veronica-lamaga.com para preguntar sobre envíos a tu ubicación."
+      },
+      {
+        "question": "¿Cuánto tiempo duran sus productos?",
+        "answer": "Cuando se almacenan adecuadamente en un lugar fresco y oscuro, nuestros aceites esenciales pueden durar 2-3 años. Los productos de baño y belleza suelen durar 1-2 años. Siempre verifica la fecha de vencimiento en tu producto."
+      },
+      {
+        "question": "¿Sus productos son adecuados para pieles sensibles?",
+        "answer": "La mayoría de nuestros productos son suaves y adecuados para pieles sensibles. Sin embargo, recomendamos hacer una prueba de parche primero. Por favor, revisa las descripciones del producto y consulta con un dermatólogo si tienes preocupaciones específicas."
+      },
+      {
+        "question": "¿Puedo devolver productos?",
+        "answer": "Queremos que estés completamente satisfecho. Contáctanos para conocer los detalles de nuestra política de devolución."
+      }
+    ]
+  },
+  "privacy": {
+    "header": {
+      "title": "Política de Privacidad",
+      "lastUpdated": "Última actualización: 17 de febrero de 2026"
+    }
+  },
+  "terms": {
+    "header": {
+      "title": "Términos de Servicio",
+      "lastUpdated": "Última actualización: 17 de febrero de 2026"
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Organic Lavender Excellence",
+      "description": "Discover our premium collection of organic lavender products. Pure, natural, and crafted with care for your wellness and beauty.",
+      "cta": "Explore Our Products"
+    },
+    "featured": {
+      "title": "Featured Products",
+      "description": "Explore our bestselling organic lavender products that have brought comfort and beauty to thousands of customers."
+    },
+    "features": {
+      "title": "Why Choose Us",
+      "items": [
+        {
+          "title": "100% Organic",
+          "description": "All our products are certified organic and sustainably harvested"
+        },
+        {
+          "title": "Pure & Natural",
+          "description": "No synthetic additives or harmful chemicals in any product"
+        },
+        {
+          "title": "Quality Assured",
+          "description": "Rigorous testing ensures the highest quality standards"
+        }
+      ]
+    }
+  },
+  "shop": {
+    "header": {
+      "title": "Our Products",
+      "description": "Discover our complete collection of organic lavender products"
+    },
+    "filter": {
+      "title": "Filter by Category",
+      "all": "All Products",
+      "essentialOils": "Essential Oils",
+      "bathBody": "Bath & Body",
+      "beauty": "Beauty",
+      "teaWellness": "Tea & Wellness",
+      "driedFlowers": "Dried Flowers",
+      "home": "Home"
+    },
+    "noProducts": "No products found in this category."
+  },
+  "about": {
+    "header": {
+      "title": "About Veronica Lamaga",
+      "description": "Our story, our values, and our commitment to quality"
+    },
+    "story": {
+      "title": "Our Story",
+      "paragraphs": [
+        "Veronica Lamaga was born from a passion for organic lavender and a commitment to quality. What started as a small family cultivation has grown into a trusted source for premium organic lavender products.",
+        "We believe that nature's simplicity is its greatest strength. Our lavender is grown organically, without synthetic pesticides or fertilizers, in the sunny Mediterranean region where lavender thrives naturally.",
+        "Every product we create is a testament to our dedication to purity, sustainability, and your wellbeing."
+      ]
+    },
+    "values": {
+      "title": "Our Core Values",
+      "items": [
+        {
+          "title": "Organic & Pure",
+          "description": "We use only organic, sustainably sourced lavender without any synthetic additives"
+        },
+        {
+          "title": "Quality First",
+          "description": "Every batch is tested for purity, potency, and safety before reaching you"
+        },
+        {
+          "title": "Sustainability",
+          "description": "We care for our environment and use eco-friendly practices in all operations"
+        },
+        {
+          "title": "Community Focused",
+          "description": "We support local communities and fair trade practices in everything we do"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "header": {
+      "title": "Contact Us",
+      "description": "We'd love to hear from you. Get in touch with any questions about our products."
+    },
+    "getInTouch": {
+      "title": "Get in Touch",
+      "email": "Email",
+      "phone": "Phone",
+      "location": "Location"
+    },
+    "form": {
+      "title": "Send us a Message",
+      "name": "Full Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message",
+      "success": "Thank you for your message! We will get back to you soon."
+    },
+    "info": {
+      "email": "info@veronica-lamaga.com",
+      "phone": "+1 (555) 123-4567",
+      "location": "Mediterranean Region"
+    }
+  },
+  "footer": {
+    "about": {
+      "title": "About Us",
+      "description": "We create pure, organic lavender products crafted with love and care for your wellness and beauty."
+    },
+    "contact": "Contact",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "faq": "FAQ",
+    "copyright": "© {year} Veronica Lamaga. All rights reserved.",
+    "social": {
+      "instagram": "Instagram",
+      "facebook": "Facebook"
+    }
+  },
+  "faq": {
+    "header": {
+      "title": "Frequently Asked Questions",
+      "description": "Find answers to common questions about our products and services"
+    },
+    "items": [
+      {
+        "question": "Are your products 100% organic?",
+        "answer": "Yes, all our lavender products are certified organic. We use no synthetic pesticides, fertilizers, or additives. Every product is sourced from our organic lavender fields."
+      },
+      {
+        "question": "Do you offer international shipping?",
+        "answer": "Currently, we ship within specific regions. Please contact us at info@veronica-lamaga.com to inquire about shipping to your location."
+      },
+      {
+        "question": "How long do your products last?",
+        "answer": "When stored properly in a cool, dark place, our essential oils can last 2-3 years. Bath and beauty products typically last 1-2 years. Always check the expiration date on your product."
+      },
+      {
+        "question": "Are your products suitable for sensitive skin?",
+        "answer": "Most of our products are gentle and suitable for sensitive skin. However, we recommend doing a patch test first. Please review product descriptions and consult with a dermatologist if you have specific concerns."
+      },
+      {
+        "question": "Can I return products?",
+        "answer": "We want you to be completely satisfied. Please contact us for our return policy details."
+      }
+    ]
+  },
+  "privacy": {
+    "header": {
+      "title": "Privacy Policy",
+      "lastUpdated": "Last updated: February 17, 2026"
+    }
+  },
+  "terms": {
+    "header": {
+      "title": "Terms of Service",
+      "lastUpdated": "Last updated: February 17, 2026"
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Prodotti",
+    "about": "Chi Siamo",
+    "contact": "Contatti"
+  },
+  "home": {
+    "hero": {
+      "title": "Eccellenza in Lavanda Biologica",
+      "description": "Scopri la nostra collezione premium di prodotti di lavanda biologica. Puri, naturali e realizzati con cura per il tuo benessere e la tua bellezza.",
+      "cta": "Esplora i Nostri Prodotti"
+    },
+    "featured": {
+      "title": "Prodotti in Evidenza",
+      "description": "Scopri i nostri prodotti di lavanda biologica più venduti che hanno portato comfort e bellezza a migliaia di clienti."
+    },
+    "features": {
+      "title": "Perché Sceglierci",
+      "items": [
+        {
+          "title": "100% Biologico",
+          "description": "Tutti i nostri prodotti sono certificati biologici e raccolti in modo sostenibile"
+        },
+        {
+          "title": "Puro e Naturale",
+          "description": "Nessun additivo sintetico o sostanza chimica nociva in nessun prodotto"
+        },
+        {
+          "title": "Qualità Garantita",
+          "description": "Prove rigorose garantiscono i più alti standard di qualità"
+        }
+      ]
+    }
+  },
+  "shop": {
+    "header": {
+      "title": "I Nostri Prodotti",
+      "description": "Scopri la nostra collezione completa di prodotti di lavanda biologica"
+    },
+    "filter": {
+      "title": "Filtra per Categoria",
+      "all": "Tutti i Prodotti",
+      "essentialOils": "Oli Essenziali",
+      "bathBody": "Bagno e Corpo",
+      "beauty": "Bellezza",
+      "teaWellness": "Tè e Benessere",
+      "driedFlowers": "Fiori Secchi",
+      "home": "Casa"
+    },
+    "noProducts": "Nessun prodotto trovato in questa categoria."
+  },
+  "about": {
+    "header": {
+      "title": "Chi è Veronica Lamaga",
+      "description": "La nostra storia, i nostri valori e il nostro impegno per la qualità"
+    },
+    "story": {
+      "title": "La Nostra Storia",
+      "paragraphs": [
+        "Veronica Lamaga è nata da una passione per la lavanda biologica e un impegno verso la qualità. Quello che ha iniziato come una piccola coltivazione familiare è diventato una fonte affidabile di prodotti premium di lavanda biologica.",
+        "Crediamo che la semplicità della natura sia la sua forza maggiore. La nostra lavanda viene coltivata biologicamente, senza pesticidi sintetici o fertilizzanti, nella soleggiata regione mediterranea dove la lavanda prospera naturalmente.",
+        "Ogni prodotto che creiamo è una testimonianza del nostro impegno verso la purezza, la sostenibilità e il tuo benessere."
+      ]
+    },
+    "values": {
+      "title": "I Nostri Valori Fondamentali",
+      "items": [
+        {
+          "title": "Biologico e Puro",
+          "description": "Utilizziamo solo lavanda biologica e proveniente da fonti sostenibili senza additivi sintetici"
+        },
+        {
+          "title": "Qualità Prima",
+          "description": "Ogni lotto viene testato per purezza, potenza e sicurezza prima di raggiungerti"
+        },
+        {
+          "title": "Sostenibilità",
+          "description": "Ci prendiamo cura dell'ambiente e utilizziamo pratiche ecologiche in tutte le operazioni"
+        },
+        {
+          "title": "Focalizzato sulla Comunità",
+          "description": "Supportiamo le comunità locali e le pratiche del commercio equo in tutto ciò che facciamo"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "header": {
+      "title": "Contattaci",
+      "description": "Ci piacerebbe sentirti. Mettiti in contatto se hai domande sui nostri prodotti."
+    },
+    "getInTouch": {
+      "title": "Mettiti in Contatto",
+      "email": "Email",
+      "phone": "Telefono",
+      "location": "Posizione"
+    },
+    "form": {
+      "title": "Inviaci un Messaggio",
+      "name": "Nome Completo",
+      "email": "Indirizzo Email",
+      "subject": "Oggetto",
+      "message": "Messaggio",
+      "send": "Invia Messaggio",
+      "success": "Grazie per il tuo messaggio! Ti contatteremo presto."
+    },
+    "info": {
+      "email": "info@veronica-lamaga.com",
+      "phone": "+1 (555) 123-4567",
+      "location": "Regione Mediterranea"
+    }
+  },
+  "footer": {
+    "about": {
+      "title": "Chi Siamo",
+      "description": "Creiamo prodotti di lavanda pura e biologica realizzati con amore e cura per il tuo benessere e la tua bellezza."
+    },
+    "contact": "Contatti",
+    "legal": "Legale",
+    "privacy": "Politica sulla Privacy",
+    "terms": "Termini di Servizio",
+    "faq": "Domande Frequenti",
+    "copyright": "© {year} Veronica Lamaga. Tutti i diritti riservati.",
+    "social": {
+      "instagram": "Instagram",
+      "facebook": "Facebook"
+    }
+  },
+  "faq": {
+    "header": {
+      "title": "Domande Frequenti",
+      "description": "Trova risposte alle domande comuni sui nostri prodotti e servizi"
+    },
+    "items": [
+      {
+        "question": "I vostri prodotti sono 100% biologici?",
+        "answer": "Sì, tutti i nostri prodotti di lavanda sono certificati biologici. Non utilizziamo pesticidi sintetici, fertilizzanti o additivi. Ogni prodotto proviene dai nostri campi di lavanda biologica."
+      },
+      {
+        "question": "Spedite a livello internazionale?",
+        "answer": "Attualmente spediamo in regioni specifiche. Contattaci a info@veronica-lamaga.com per informazioni sulla spedizione nella tua posizione."
+      },
+      {
+        "question": "Quanto durano i vostri prodotti?",
+        "answer": "Se conservati correttamente in un luogo fresco e buio, i nostri oli essenziali possono durare 2-3 anni. I prodotti da bagno e bellezza durano in genere 1-2 anni. Controlla sempre la data di scadenza sul tuo prodotto."
+      },
+      {
+        "question": "I vostri prodotti sono adatti a pelli sensibili?",
+        "answer": "La maggior parte dei nostri prodotti è delicata e adatta a pelli sensibili. Tuttavia, consigliamo di fare prima una prova su una piccola area. Per favore, rivedi le descrizioni dei prodotti e consulta un dermatologo se hai preoccupazioni specifiche."
+      },
+      {
+        "question": "Posso restituire i prodotti?",
+        "answer": "Vogliamo che tu sia completamente soddisfatto. Contattaci per i dettagli della nostra politica di restituzione."
+      }
+    ]
+  },
+  "privacy": {
+    "header": {
+      "title": "Politica sulla Privacy",
+      "lastUpdated": "Ultimo aggiornamento: 17 febbraio 2026"
+    }
+  },
+  "terms": {
+    "header": {
+      "title": "Termini di Servizio",
+      "lastUpdated": "Ultimo aggiornamento: 17 febbraio 2026"
+    }
+  }
+}
